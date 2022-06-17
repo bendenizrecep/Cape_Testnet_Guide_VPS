@@ -36,7 +36,7 @@ sudo snap install docker
 - Start CMD as administrator and enter the following codes. Enter your VPS IP address in the vpsIP field.
 ``` 
 netsh interface portproxy add v4tov4 listenaddress=127.0.0.1 listenport=80 connectaddress=vpsIP connectport=80
-netsh interface portproxy add v4tov4 listenaddress=127.0.0.1 listenport=80 connectaddress=vpsIP connectport=80
+netsh interface portproxy add v4tov4 listenaddress=127.0.0.1 listenport=60000 connectaddress=vpsIP connectport=60000
 ```
 
 - After completing the steps, log in from your local computer by typing "localhost" in the browser.
