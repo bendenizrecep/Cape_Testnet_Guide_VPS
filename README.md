@@ -42,7 +42,7 @@ netsh interface portproxy add v4tov4 listenaddress=127.0.0.1 listenport=80 conne
 - After completing the steps, log in from your local computer by typing "localhost" in the browser.
 ![image](https://user-images.githubusercontent.com/61727501/174287799-73af3adf-56d9-4d45-afbe-a16fa0ef2a08.png)
 
-### After connecting to Cape, you can create a new wallet and test Cape by following the steps in the link below.
+- After connecting to Cape, you can create a new wallet and test Cape by following the steps in the link below.
 
 https://docs.cape.tech/cape-user-guide/creating-a-new-wallet
 
