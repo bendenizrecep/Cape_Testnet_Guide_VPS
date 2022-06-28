@@ -11,7 +11,7 @@ Espresso Systems -  Cape Testnet Guide
 _You can perform node installations over a vps that will meet the above-mentioned system requirements._
 
 ### Cape Official Testnet Page;
-https://docs.cape.tech/espresso-systems/
+https://docs.cape.tech/espresso-systems/cape-user-guide/getting-started
 
 
 
